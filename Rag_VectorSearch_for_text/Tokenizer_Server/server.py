@@ -20,7 +20,7 @@ def preprocess_text():
         for key, value in data.items():
             texts.join(f" {key}: {value}")
         print("-----------------------")
-        model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+        model = SentenceTransformer('aditeyabaral/sentencetransformer-bert-hinglish-small')
         embeddings = model.encode(texts)
         embeddings = embeddings.tolist()  # Convert ndarray to list
         print("Processed a request successfully")
