@@ -1,3 +1,2 @@
 *.JPEG
 .env
-Embedding_generation_and_storing_to_db_ignored.py
