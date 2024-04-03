@@ -1,6 +1,0 @@
-Flask
-pandas
-sentence-transformers
-pymongo
-requests
-flask-cors

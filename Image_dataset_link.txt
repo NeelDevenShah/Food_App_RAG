@@ -1,3 +1,1 @@
-https://huggingface.co/datasets/rajistics/indian_food_images?row=0
-
-https://www.kaggle.com/datasets/iamsouravbanerjee/indian-food-images-dataset
+http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
