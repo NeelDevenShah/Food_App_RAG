@@ -5,7 +5,7 @@ For text embedding (vector_index):
     {
       "type": "vector",
       "path": "embedding",
-      "numDimensions": 768,
+      "numDimensions": 384,
       "similarity": "cosine"
     }
   ]
