@@ -26,7 +26,7 @@ This project aims to develop an intelligent food search system with the followin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/Smart-AI-Based-Food-RAG.git
+   git clone https://github.com/NeelDevenShah/Food_App_RAG.git
 
    ```
 
